@@ -1,0 +1,12 @@
+.input {
+    background: transparent;
+    color: rgb(12, 219, 64);
+    outline: none;
+    border: 2px solid rgb(12, 219, 64);
+    padding: 6px 10px;
+    margin: 10px;
+} 
+::placeholder {
+    color:rgb(12, 219, 64) !important;
+    opacity: 0.8; /* Firefox */
+}
